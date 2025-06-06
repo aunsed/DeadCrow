@@ -1,0 +1,27 @@
+DeadCrow Custom License (English)
+
+This software and all associated source code (DeadCrow) is provided under the following custom license
+
+1. Permitted Uses
+
+    ✅ Educational, academic, or research purposes
+    ✅ Personal study and ethical hacking training in controlled environments
+
+2. Prohibited Uses
+
+    🚫 Commercial use, including use as part of any product or service
+    🚫 Malicious use, including unauthorized access, spying, surveillance, or damage to systems
+    🚫 Redistribution of compiled binaries or executables
+
+3. Terms of Usage
+
+    DeadCrow must only be used in environments where you have explicit permission to conduct testing.
+    All use must comply with the laws and regulations of your jurisdiction.
+    You are solely responsible for any actions taken using this software.
+
+4. Liability
+
+    This software is provided AS IS without warranty of any kind.
+    The authors are not liable for any damages, legal consequences, or misuse.
+
+By using DeadCrow, you agree to these terms. If you do not agree, do not use or distribute the software.

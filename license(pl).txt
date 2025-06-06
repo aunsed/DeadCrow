@@ -1,0 +1,27 @@
+Własna Licencja DeadCrow (Polski)
+
+To oprogramowanie oraz cały powiązany kod źródłowy ("DeadCrow") udostępniane jest na podstawie poniższej, niestandardowej licencji:
+
+1. **Dozwolone Zastosowania**
+
+   * ✅ Zastosowania edukacyjne, akademickie lub badawcze
+   * ✅ Nauka własna i trening z zakresu etycznego hakowania w środowiskach testowych
+
+2. **Zabronione Zastosowania**
+
+   * 🚫 Zastosowania komercyjne, w tym jako część produktu lub usługi
+   * 🚫 Zastosowania złośliwe, takie jak nieautoryzowany dostęp, szpiegowanie, inwigilacja czy uszkadzanie systemów
+   * 🚫 Udostępnianie skompilowanych binarek lub plików wykonywalnych
+
+3. **Warunki Użytkowania**
+
+   * DeadCrow może być używany wyłącznie w środowiskach, gdzie posiadasz wyraźną zgodę na prowadzenie testów.
+   * Wszystkie działania muszą być zgodne z obowiązującym prawem w twoim kraju.
+   * Pełna odpowiedzialność za użycie tego narzędzia spoczywa na użytkowniku.
+
+4. **Odpowiedzialność**
+
+   * Oprogramowanie udostępniane jest "TAK JAK JEST", bez jakiejkolwiek gwarancji.
+   * Autorzy nie ponoszą odpowiedzialności za szkody, skutki prawne lub niewłaściwe użycie.
+
+Korzystając z DeadCrow, akceptujesz powyższe warunki. Jeśli się z nimi nie zgadzasz — nie korzystaj z tego oprogramowania.

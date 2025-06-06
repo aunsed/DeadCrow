@@ -1,0 +1,18 @@
+## SECURITY.txt (English)
+
+### Responsible Disclosure
+
+We take security and ethical usage seriously. If you find a security issue, vulnerability, or abuse of the DeadCrow framework, please report it through responsible disclosure.
+
+#### Contact:
+
+📧 **DeadCrewsecurity@proton.me**
+
+### Guidelines:
+
+* Do **not** exploit vulnerabilities for personal or commercial gain.
+* Provide **clear, reproducible** steps.
+* We appreciate detailed technical information.
+* All legitimate reports will be reviewed, and we will take appropriate action.
+
+DeadCrow is intended only for controlled, ethical environments. Misuse is not tolerated.

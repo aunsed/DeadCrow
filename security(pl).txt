@@ -1,0 +1,23 @@
+## POLITYKA BEZPIECZEŃSTWA (Polski)
+
+### 🔐 Odpowiedzialne Zgłaszanie Zagrożeń
+
+Jeśli zauważysz podatność, niewłaściwe użycie lub inne problemy związane z frameworkiem DeadCrow, zgłoś je odpowiedzialnie, kontaktując się pod adresem:
+
+📧 **DeadCrewsecurity@proton.me**
+
+Zachęcamy do:
+
+* Przejrzystej i uprzejmej komunikacji.
+* Zgłoszeń popartych dowodami lub krokami umożliwiającymi odtworzenie.
+* Działania w dobrej wierze — wspieramy białe kapelusze.
+
+Zobowiązujemy się do:
+
+* Analizy wszystkich uzasadnionych zgłoszeń.
+* Podejmowania szybkich i odpowiedzialnych działań.
+* Uznania zasług autorów zgłoszeń (na życzenie).
+
+---
+
+**Uwaga:** Złośliwe użycie narzędzia lub brak zgłoszenia problemu może zostać potraktowane jako naruszenie warunków licencji i zasad etycznych.
